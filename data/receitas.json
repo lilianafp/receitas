@@ -138,5 +138,25 @@
     ],
     "favorito": false,
     "dataCriacao": "2026-04-05T11:12:58.229Z"
+  },
+  {
+    "id": "c73cb831-404c-46d4-9760-f69cbfa676db",
+    "titulo": "Brownie com iogurte grego",
+    "ingredientes": "60 ml (1/4 cup) de iogurte grego natural 0% gordura\n15 ml (1 colher de sopa) de cacau em pó (sem açúcar)\n15 ml (1 colher de sopa) de farinha de aveia (ou outra)\n2.5 ml (1/2 colher de chá) de fermento em pó\n15 ml (1 colher de sopa) de adoçante stevia em pó (ou xarope de ácer)\n1.25 ml (1/4 colher de chá) de extrato de baunilha\n30 ml (2 colheres de sopa) de leite (ou bebida vegetal)\n2 quadrados de chocolate preto (mínimo 70% cacau)",
+    "preparacao": "1. Numa caneca, misture bem todos os ingredientes secos: o cacau, a farinha de aveia, o fermento e o adoçante.\n2. Adicione o iogurte grego, a baunilha e o leite e misture tudo muito bem.\n3. Leve ao micro-ondas por 1 minuto e 30 segundos (ou até o bolo estar cozido). Não coza demais ou o bolo vai ficar seco.\n4. Retire do micro-ondas, coloque os quadrados de chocolate por cima e deixe derreter um pouco.\n5. Sirva morno.",
+    "categoria": "Sobremesas",
+    "imagem": "https://www.casalmisterio.com/wp-content/uploads/2026/04/image_39d74438034d4d78b6a5e27524d8b158.jpg",
+    "porcoes": 1,
+    "tempoPreparacao": null,
+    "tempoConfecao": "1 min 30 seg",
+    "tags": [
+      "brownie",
+      "iogurte grego",
+      "caneca",
+      "micro-ondas",
+      "poucas calorias"
+    ],
+    "favorito": false,
+    "dataCriacao": "2026-04-13T21:22:37.510Z"
   }
 ]

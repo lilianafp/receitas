@@ -158,5 +158,25 @@
     ],
     "favorito": false,
     "dataCriacao": "2026-04-13T21:22:37.510Z"
+  },
+  {
+    "id": "fe314d9b-fb83-42f7-ad57-f218dbc91286",
+    "titulo": "One pot massa mascarpone e tomate",
+    "ingredientes": "300 g de massa à escolha\n400 g de tomate cherry\n150 g de queijo mascarpone\n2 dentes de alho\n1 cebola roxa pequena\n8 folhas de manjericão fresco\n1/2 cubo de caldo de legumes\n700 ml de água quente\nAzeite virgem extra q.b.\nSal e pimenta preta moída na hora q.b.",
+    "preparacao": "1. Descasque e pique os dentes de alho e a cebola roxa. Lave e corte os tomates cherry ao meio.\n2. Numa panela grande, junte a massa, o tomate, o queijo mascarpone, o alho, a cebola roxa, as folhas de manjericão e o cubo de caldo de legumes.\n3. Regue com a água quente, o azeite, o sal e a pimenta.\n4. Leve a panela ao lume forte e deixe ferver, misturando bem.\n5. Assim que levantar fervura, baixe o lume e deixe cozinhar durante cerca de 15 minutos, ou até a massa ficar no ponto. Vá mexendo a meio para a massa não agarrar ao fundo.\n6. Sirva de imediato, polvilhado com mais manjericão fresco.",
+    "categoria": "Prato Principal",
+    "imagem": "https://www.casalmisterio.com/wp-content/uploads/2026/04/image_39d74438034d4d78b6a5e27524d8b158.jpg",
+    "porcoes": 2,
+    "tempoPreparacao": null,
+    "tempoConfecao": "15 min",
+    "tags": [
+      "massa",
+      "tomate",
+      "mascarpone",
+      "uma panela",
+      "rápido"
+    ],
+    "favorito": false,
+    "dataCriacao": "2026-04-13T21:31:48.807Z"
   }
 ]

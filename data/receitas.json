@@ -178,5 +178,25 @@
     ],
     "favorito": false,
     "dataCriacao": "2026-04-13T21:31:48.807Z"
+  },
+  {
+    "id": "f587c492-6d17-46ef-9aa3-aacebb4abc7d",
+    "titulo": "Cheesecake de 2 ingredientes",
+    "ingredientes": "3 ovos grandes\n240 ml (1 cup) de queijo creme light (tipo Philadelphia) ou ricotta",
+    "preparacao": "1. Pré-aqueça o forno a 170 ºC.\n2. Comece por separar as gemas das claras. Bata as claras em castelo e reserve.\n3. Numa taça, misture as gemas com o queijo creme e envolva bem até obter um creme. Se for usar queijo creme light, acrescente 2 colheres de sopa de açúcar e 1 colher de chá de extrato de baunilha. Se usar ricotta, acrescente 2 colheres de sopa de açúcar, 1 colher de chá de extrato de baunilha e 2 colheres de sopa de farinha para não ficar demasiado líquido.\n4. Incorpore as claras em castelo no preparado das gemas com o queijo. Envolva delicadamente com umas varas para as claras não perderem o volume.\n5. Deite o preparado para uma forma forrada com papel vegetal e leve ao forno durante 40 a 50 minutos ou até o bolo estar dourado.\n6. Deixe arrefecer, leve ao frigorífico e sirva bem fresco.",
+    "categoria": "Sobremesas",
+    "imagem": "https://www.casalmisterio.com/wp-content/uploads/2026/04/11-1.png",
+    "porcoes": 4,
+    "tempoPreparacao": "10 minutos",
+    "tempoConfecao": "40-50 minutos",
+    "tags": [
+      "cheesecake",
+      "fácil",
+      "sobremesa",
+      "2 ingredientes",
+      "rápido"
+    ],
+    "favorito": false,
+    "dataCriacao": "2026-04-13T21:49:37.773Z"
   }
 ]

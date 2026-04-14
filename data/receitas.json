@@ -202,19 +202,19 @@
   {
     "id": "fb990414-e23b-42f7-b2b3-541b587d0d84",
     "titulo": "Cups chocolate e manteiga de amendoim",
-    "ingredientes": "120 ml (1/2 cup) manteiga de amendoim suave\n60 ml (1/4 cup) manteiga sem sal, derretida\n240 ml (1 cup) açúcar em pó\nForminhas de papel para mini cupcakes\nPara a cobertura de chocolate:\n240 ml (1 cup) pepitas de chocolate semi-doce\n2 colheres de chá de óleo de coco",
-    "preparacao": "1. Numa tigela pequena, bata a manteiga de amendoim, a manteiga derretida e o açúcar em pó até ficar homogéneo.\n2. Forre um tabuleiro de mini cupcakes com forminhas de papel.\n3. Numa tigela separada, leve as pepitas de chocolate e o óleo de coco ao micro-ondas em intervalos de 30 segundos, mexendo até ficar homogéneo.\n4. Coloque 1/2 colher de chá de chocolate derretido no fundo de cada forminha de papel.\n5. Com a ajuda de duas colheres de chá, faça pequenas bolas com a mistura de manteiga de amendoim e achate-as ligeiramente. Coloque uma bola em cada forminha.\n6. Cubra com mais 1/2 colher de chá de chocolate derretido.\n7. Leve ao frigorífico por pelo menos 30 minutos, ou até que o chocolate esteja firme.\n8. Guarde num recipiente hermético no frigorífico por até 1 semana.",
-    "categoria": "Sobremesas",
+    "ingredientes": "- Massa:\n  - 120 g Flocos de Aveia Integral Finos sem glúten\n  - 70 ml Bebida de amêndoa\n  - 1 colher de chá Óleo de coco\n  - 1 colher de sopa Adoçante a gosto\n- Recheio:\n  - 100 g Chocolate negro 70% cacau\n  - q.b. Manteiga de amendoim",
+    "preparacao": "1. Misturar os ingredientes para a massa até formar uma pasta.\n2. Em seguida, dividir pelas formas de queques, deixando um buraco no meio e levar ao forno pré-aquecido a 180°C durante cerca de 15 minutos, até a aveia ficar dourada.\n3. Depois de retirar do forno, deixar arrefecer um pouco e encher o centro das formas com manteiga de amendoim.\n4. Derreter o chocolate no micro-ondas ou em banho-maria e cobrir a manteiga de amendoim até encher.\n5. Deixar o chocolate secar e estão prontos.",
+    "categoria": "Lanches",
     "imagem": "https://i0.wp.com/chocolateamais.com/wp-content/uploads/2020/11/Cups-manteiga-amendoim-5.jpg?w=1024&ssl=1",
     "porcoes": 12,
-    "tempoPreparacao": "20 min",
-    "tempoConfecao": "10 min",
+    "tempoPreparacao": "15 min",
+    "tempoConfecao": "15 min",
     "tags": [
-      "manteiga de amendoim",
+      "forno",
       "chocolate",
-      "doce",
-      "sobremesa",
-      "sem forno"
+      "amendoim",
+      "aveia",
+      "sem glúten"
     ],
     "favorito": false,
     "dataCriacao": "2026-04-14T16:26:03.249Z"

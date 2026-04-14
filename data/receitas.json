@@ -198,5 +198,25 @@
     ],
     "favorito": false,
     "dataCriacao": "2026-04-13T21:49:37.773Z"
+  },
+  {
+    "id": "fb990414-e23b-42f7-b2b3-541b587d0d84",
+    "titulo": "Cups chocolate e manteiga de amendoim",
+    "ingredientes": "120 ml (1/2 cup) manteiga de amendoim suave\n60 ml (1/4 cup) manteiga sem sal, derretida\n240 ml (1 cup) açúcar em pó\nForminhas de papel para mini cupcakes\nPara a cobertura de chocolate:\n240 ml (1 cup) pepitas de chocolate semi-doce\n2 colheres de chá de óleo de coco",
+    "preparacao": "1. Numa tigela pequena, bata a manteiga de amendoim, a manteiga derretida e o açúcar em pó até ficar homogéneo.\n2. Forre um tabuleiro de mini cupcakes com forminhas de papel.\n3. Numa tigela separada, leve as pepitas de chocolate e o óleo de coco ao micro-ondas em intervalos de 30 segundos, mexendo até ficar homogéneo.\n4. Coloque 1/2 colher de chá de chocolate derretido no fundo de cada forminha de papel.\n5. Com a ajuda de duas colheres de chá, faça pequenas bolas com a mistura de manteiga de amendoim e achate-as ligeiramente. Coloque uma bola em cada forminha.\n6. Cubra com mais 1/2 colher de chá de chocolate derretido.\n7. Leve ao frigorífico por pelo menos 30 minutos, ou até que o chocolate esteja firme.\n8. Guarde num recipiente hermético no frigorífico por até 1 semana.",
+    "categoria": "Sobremesas",
+    "imagem": "https://i0.wp.com/chocolateamais.com/wp-content/uploads/2020/11/Cups-manteiga-amendoim-5.jpg?w=1024&ssl=1",
+    "porcoes": 12,
+    "tempoPreparacao": "20 min",
+    "tempoConfecao": "10 min",
+    "tags": [
+      "manteiga de amendoim",
+      "chocolate",
+      "doce",
+      "sobremesa",
+      "sem forno"
+    ],
+    "favorito": false,
+    "dataCriacao": "2026-04-14T16:26:03.249Z"
   }
 ]
